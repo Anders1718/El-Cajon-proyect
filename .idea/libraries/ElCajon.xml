@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ElCajon">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ElCajon.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
