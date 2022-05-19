@@ -29,9 +29,7 @@ import static ventanas1.FacturaPanel.jTextFieldCorreo;
  * @author User
  */
 public class Gastos extends javax.swing.JFrame {
-    String user = "sql5454836";
-    String clave = "pkzsvhf4Qx";
-    String url = "jdbc:mysql://sql5.freemysqlhosting.net/sql5454836";
+   
     Connection con;
     Statement stmt;
     ResultSet rs;
